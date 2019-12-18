@@ -1,0 +1,4 @@
+MD C:\Users\"ACER PC"\Desktop\"AGUSTINUS SANI"
+echo C:\Windows\System32\Shutdown.exe /s > C:\Users\"ACER PC"\Desktop\"AGUSTINUS SANI"\Program_Shutdown.bat
+echo C:\Windows\System32\Shutdown.exe /r > C:\Users\"ACER PC"\Desktop\"AGUSTINUS SANI"\Program_Restart.bat
+echo Agustinus 2197200884 > C:\\Users\"ACER PC"\Desktop\"AGUSTINUS SANI"\About.txt
